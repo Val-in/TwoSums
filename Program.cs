@@ -88,4 +88,4 @@
 //So, if we fix one of the numbers, say, we have to scan the entire array to find the next number which is where value is the input parameter.
 //Can we change our array somehow so that this search becomes faster?xyvalue - x
 //Hint 3
-//The second train of thought is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
+//The second train of thought is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?&
